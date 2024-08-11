@@ -41,6 +41,9 @@ p {
   width: 100%;
   border-radius: 10px;
 }
+.Card__description {
+  padding: 0 16px;
+}
 .Card__title {
   font-weight: 700;
   font-size: 22px;
